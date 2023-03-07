@@ -1,0 +1,49 @@
+- class_name: 夥伴們
+  class_desc: 一起變強，一起成長
+  link_list:
+    - name: 勞贖
+      link: https://fffelix-huang.github.io/
+      avatar: https://fffelix-huang.github.io/img/jerry.png
+      descr: 超電的同學 教會了我很多東西
+    - name: LuckyAnthonyAn
+      link: https://hakkaz.github.io/
+      avatar: /img/avatar/hakkaz.png
+      descr: 交大資工準大一生!!是造就我的學長
+    - name: 理科生的英文教室
+      link: https://tunacian.lionfree.net/wordpress/
+      avatar: /img/avatar/tunacian.jpg
+      descr: 英文不好點進來就對了
+    - name: Zhu-Astor
+      link: https://zhu-astor.github.io/
+      avatar: /img/avatar/zhu-astor.jpg
+      descr: 永遠的夥伴
+    - name: 李福昌
+      link: https://leefuuchang.github.io/
+      avatar: /img/avatar/leefuuchang.jpg
+      descr: 加油R學弟
+    - name: 櫛風
+      link: https://shaneliu.studio-alvitr.com/
+      avatar: /img/avatar/shaneliu.jpg
+      descr: 櫛風風在線徵女友
+    - name: 台灣夢 Taiwan Dream
+      link: https://twdream1.blogspot.com/?m=1
+      avatar: /img/avatar/twdream1.jpg
+      descr: 一群愛台灣；關注台灣藝術、時事、文化、多媒體的團隊
+- class_name: 推薦的網站
+  link_list:
+    - name: CJOJ
+      link: http://cjoj.cjhs.kh.edu.tw/
+      avatar: https://imgur.com/XKG34Wr.jpg 
+      descr: 我架的OJ呦，點進來看看吧
+    - name: Codeforces
+      link: https://codeforces.com/
+      avatar: https://1.bp.blogspot.com/-9CjsLRLqcT0/Wngzf_mmkiI/AAAAAAAABP4/mdX4LTooaEsvG7SCDQOS9wbUEpWrQ8hCACPcBGAYYCw/s1600/codeforce.png
+      descr: 我的英文其實不太好
+    - name: TIOJ
+      link: https://tioj.ck.tp.edu.tw/
+      avatar: https://tioj.ck.tp.edu.tw/images/favicon.ico
+      descr: 可怕的地方..
+    - name: zerojudge
+      link: https://zerojudge.tw/
+      avatar: https://zerojudge.tw/favicon.ico
+      descr: 競技程式的新手村
